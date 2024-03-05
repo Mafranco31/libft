@@ -6,11 +6,11 @@
 /*   By: mafranco <mafranco@student.42barcelona.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/17 21:48:11 by mafranco          #+#    #+#             */
-/*   Updated: 2023/05/31 15:00:19 by mafranco         ###   ########.fr       */
+/*   Updated: 2024/03/05 12:39:41 by mafranco         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../inc/libft.h"
 
 void	ft_putendl_fd(char *s, int fd)
 {

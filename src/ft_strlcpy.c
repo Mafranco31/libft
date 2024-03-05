@@ -6,11 +6,11 @@
 /*   By: mafranco <mafranco@student.42barcelona.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/04 17:07:15 by mafranco          #+#    #+#             */
-/*   Updated: 2023/05/31 15:22:54 by mafranco         ###   ########.fr       */
+/*   Updated: 2024/03/05 12:41:21 by mafranco         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../inc/libft.h"
 
 size_t	ft_strlcpy(char *dest, const char *src, size_t size)
 {

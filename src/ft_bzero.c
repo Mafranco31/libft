@@ -6,11 +6,11 @@
 /*   By: mafranco <mafranco@student.42barcelona.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/04 14:40:59 by mafranco          #+#    #+#             */
-/*   Updated: 2023/05/31 16:48:54 by mafranco         ###   ########.fr       */
+/*   Updated: 2024/03/05 12:34:28 by mafranco         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../inc/libft.h"
 
 void	ft_bzero(void *s, size_t n)
 {

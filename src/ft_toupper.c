@@ -6,11 +6,11 @@
 /*   By: mafranco <mafranco@student.42barcelona.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/04 20:01:40 by mafranco          #+#    #+#             */
-/*   Updated: 2023/05/31 15:52:04 by mafranco         ###   ########.fr       */
+/*   Updated: 2024/03/05 12:43:14 by mafranco         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../inc/libft.h"
 
 int	ft_toupper(int c)
 {

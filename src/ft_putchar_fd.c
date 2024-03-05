@@ -6,11 +6,11 @@
 /*   By: mafranco <mafranco@student.42barcelona.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/17 19:54:05 by mafranco          #+#    #+#             */
-/*   Updated: 2023/05/31 14:59:40 by mafranco         ###   ########.fr       */
+/*   Updated: 2024/03/05 12:39:29 by mafranco         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../inc/libft.h"
 
 void	ft_putchar_fd(char c, int fd)
 {

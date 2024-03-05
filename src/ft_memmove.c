@@ -6,11 +6,11 @@
 /*   By: mafranco <mafranco@student.42barcelona.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/04 15:12:25 by mafranco          #+#    #+#             */
-/*   Updated: 2023/05/31 17:51:00 by mafranco         ###   ########.fr       */
+/*   Updated: 2024/03/05 12:39:00 by mafranco         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../inc/libft.h"
 
 void	*ft_memmove(void *dest, const void *src, size_t n)
 {

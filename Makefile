@@ -6,13 +6,13 @@
 #    By: mafranco <mafranco@student.42barcelona.    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/05/05 17:45:19 by mafranco          #+#    #+#              #
-#    Updated: 2024/03/05 11:14:14 by mafranco         ###   ########.fr        #
+#    Updated: 2024/03/05 12:43:40 by mafranco         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME = libft.a
 
-LIB = src/libft.h
+LIB = inc/libft.h
 
 SRC = src/ft_atoi.c src/ft_bzero.c src/ft_calloc.c src/ft_isalnum.c \
 	src/ft_isalpha.c src/ft_isascii.c src/ft_isdigit.c src/ft_isprint.c \
@@ -53,7 +53,7 @@ $(NAME)::
 	@echo "$(GREEN)libft.a compiled$(RESET)"
 
 clean:
-	@$(RM) -r *.o
+	@$(RM) -r src/*.o
 	@echo "$(YELLOW)objects of LIBFT removed$(RESET)"
 
 fclean:	clean

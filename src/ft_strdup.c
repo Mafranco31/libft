@@ -6,11 +6,11 @@
 /*   By: mafranco <mafranco@student.42barcelona.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/05 16:07:48 by mafranco          #+#    #+#             */
-/*   Updated: 2023/05/31 19:53:28 by mafranco         ###   ########.fr       */
+/*   Updated: 2024/03/05 12:40:34 by mafranco         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../inc/libft.h"
 
 char	*ft_strdup(const char *s)
 {

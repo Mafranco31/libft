@@ -6,11 +6,11 @@
 /*   By: mafranco <mafranco@student.42barcelona.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/04 13:41:56 by mafranco          #+#    #+#             */
-/*   Updated: 2023/05/31 14:17:51 by mafranco         ###   ########.fr       */
+/*   Updated: 2024/03/05 12:36:08 by mafranco         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../inc/libft.h"
 
 int	ft_isascii(int a)
 {

@@ -6,11 +6,11 @@
 /*   By: mafranco <mafranco@student.42barcelona.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/17 15:16:13 by mafranco          #+#    #+#             */
-/*   Updated: 2023/06/27 21:36:06 by mafranco         ###   ########.fr       */
+/*   Updated: 2024/03/05 12:40:13 by mafranco         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../inc/libft.h"
 
 static size_t	ft_mkget(const char *s, char c)
 {

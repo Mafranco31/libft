@@ -6,11 +6,11 @@
 /*   By: mafranco <mafranco@student.42barcelona.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/05 15:47:44 by mafranco          #+#    #+#             */
-/*   Updated: 2023/06/27 17:31:15 by mafranco         ###   ########.fr       */
+/*   Updated: 2024/03/05 12:34:39 by mafranco         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../inc/libft.h"
 
 void	*ft_calloc(size_t nmemb, size_t size)
 {

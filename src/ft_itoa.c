@@ -6,11 +6,11 @@
 /*   By: mafranco <mafranco@student.42barcelona.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/17 17:19:06 by mafranco          #+#    #+#             */
-/*   Updated: 2023/06/27 23:00:16 by mafranco         ###   ########.fr       */
+/*   Updated: 2024/03/05 12:36:45 by mafranco         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../inc/libft.h"
 
 static	int	getlenght(int n)
 {

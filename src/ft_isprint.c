@@ -6,11 +6,11 @@
 /*   By: mafranco <mafranco@student.42barcelona.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/04 13:54:33 by mafranco          #+#    #+#             */
-/*   Updated: 2023/05/31 14:19:29 by mafranco         ###   ########.fr       */
+/*   Updated: 2024/03/05 12:36:31 by mafranco         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../inc/libft.h"
 
 int	ft_isprint(int a)
 {

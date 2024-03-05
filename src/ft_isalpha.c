@@ -6,11 +6,11 @@
 /*   By: mafranco <mafranco@student.42barcelona.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/05/04 12:55:35 by mafranco          #+#    #+#             */
-/*   Updated: 2023/05/31 14:16:27 by mafranco         ###   ########.fr       */
+/*   Updated: 2024/03/05 12:35:50 by mafranco         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../inc/libft.h"
 
 int	ft_isalpha(int a)
 {

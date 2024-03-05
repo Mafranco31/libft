@@ -6,11 +6,11 @@
 /*   By: mafranco <mafranco@student.barcelona.>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/09/18 11:36:32 by mafranco          #+#    #+#             */
-/*   Updated: 2023/09/18 11:36:33 by mafranco         ###   ########.fr       */
+/*   Updated: 2024/03/05 12:37:37 by mafranco         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../inc/libft.h"
 
 void	ft_lstdelone(t_list *lst, void (*del)(void *))
 {
