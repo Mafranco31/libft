@@ -18,8 +18,8 @@ If you want more indication about these funcion, type man <function name>
 
 ## Installation
 
-$\>git clone "path" libft  
-$\>cd libft  
-$\>make  
+```c
+git clone https://github.com/Mafranco31/libft.git libft && cd libft && make
+```
 
 now you can use libft function in your files (don't forget to include libft.h header in your files)
