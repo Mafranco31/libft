@@ -23,3 +23,4 @@ git clone https://github.com/Mafranco31/libft.git libft && cd libft && make
 ```
 
 now you can use libft function in your files (don't forget to include libft.h header in your files)
+when you compile your function, make sure to add the flag -L./libft -lft to add the library libft to your project. (change -L./libft by your path as -L(path)).
