@@ -18,7 +18,7 @@ If you want more indication about these funcion, type man <function name>
 
 ## Installation
 
-```c
+```bash
 git clone https://github.com/Mafranco31/libft.git libft && cd libft && make
 ```
 
